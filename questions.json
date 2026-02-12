@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "texte": "Dans un groupe, tu es plutôt…",
+      "choix": {
+        "A": "celle qui prend les devants",
+        "B": "celle qui soutient tout le monde",
+        "C": "celle qui pose mille questions",
+        "D": "celle qui observe avant d’agir"
+      }
+    },
+    {
+      "id": "q2",
+      "texte": "Face à un imprévu, tu réagis…",
+      "choix": {
+        "A": "en improvisant direct",
+        "B": "en demandant de l’aide",
+        "C": "en cherchant la cause",
+        "D": "en faisant un plan"
+      }
+    },
+    {
+      "id": "q3",
+      "texte": "Ton défaut mignon, ce serait…",
+      "choix": {
+        "A": "trop impulsive",
+        "B": "trop gentille",
+        "C": "trop curieuse",
+        "D": "trop prudente"
+      }
+    },
+    {
+      "id": "q4",
+      "texte": "Un samedi parfait, c’est plutôt…",
+      "choix": {
+        "A": "une aventure dehors",
+        "B": "un moment avec tes proches",
+        "C": "un truc à découvrir/apprendre",
+        "D": "du calme et du temps pour toi"
+      }
+    },
+    {
+      "id": "q5",
+      "texte": "Si on te critique, tu…",
+      "choix": {
+        "A": "réponds du tac au tac",
+        "B": "essaies d’arrondir les angles",
+        "C": "demandes des détails",
+        "D": "prends du recul"
+      }
+    },
+    {
+      "id": "q6",
+      "texte": "En mission, tu préfères…",
+      "choix": {
+        "A": "agir vite",
+        "B": "coordonner l’équipe",
+        "C": "enquêter",
+        "D": "anticiper les risques"
+      }
+    },
+    {
+      "id": "q7",
+      "texte": "Ton super-pouvoir idéal…",
+      "choix": {
+        "A": "super force",
+        "B": "soin / protection",
+        "C": "télépathie",
+        "D": "ralentir le temps"
+      }
+    },
+    {
+      "id": "q8",
+      "texte": "Au fond, ce qui te motive le plus…",
+      "choix": {
+        "A": "le défi",
+        "B": "les liens",
+        "C": "la découverte",
+        "D": "la maîtrise"
+      }
+    }
+  ]
+}

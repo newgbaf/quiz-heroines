@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex">
+  <title>Quiz héroïnes</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>Quel type de personnage es-tu ?</h1>
+    </header>
+
+    <section class="card">
+      <div class="progress">
+        <div class="progress__row">
+          <span id="progressText" class="meta">Chargement…</span>
+          <span id="progressPct" class="meta"></span>
+        </div>
+        <div class="progress__bar">
+          <div id="progressFill" class="progress__fill"></div>
+        </div>
+      </div>
+
+      <div id="app"></div>
+
+      <div class="footerActions">
+        <button id="backBtn" class="btn btn--ghost" disabled>Retour</button>
+        <button id="restartBtn" class="btn btn--ghost" disabled>Recommencer</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
