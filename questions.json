@@ -2,82 +2,92 @@
   "questions": [
     {
       "id": "q1",
-      "texte": "Dans un groupe, tu es plutôt…",
+      "texte": "Quand tu arrives dans un nouvel endroit, tu es plutôt...",
       "choix": {
-        "A": "celle qui prend les devants",
-        "B": "celle qui soutient tout le monde",
-        "C": "celle qui pose mille questions",
-        "D": "celle qui observe avant d’agir"
+        "A": "Curieux(se), prêt(e) à explorer partout",
+        "B": "Un peu réservé(e), tu observes avant d'agir",
+        "C": "À l'aise, tu vas facilement vers les autres",
+        "D": "Concentré(e), tu réfléchis à ce que tu dois faire"
       }
     },
     {
       "id": "q2",
-      "texte": "Face à un imprévu, tu réagis…",
+      "texte": "Un(e) camarade se fait embêter dans la cour",
       "choix": {
-        "A": "en improvisant direct",
-        "B": "en demandant de l’aide",
-        "C": "en cherchant la cause",
-        "D": "en faisant un plan"
+        "A": "Tu interviens sans trop réfléchir",
+        "B": "Tu observes la situation pour comprendre",
+        "C": "Tu vas le/la réconforter",
+        "D": "Tu cherches une solution pour que ça s'arrête durablement"
       }
     },
     {
       "id": "q3",
-      "texte": "Ton défaut mignon, ce serait…",
+      "texte": "Face à un problème difficile, tu...",
       "choix": {
-        "A": "trop impulsive",
-        "B": "trop gentille",
-        "C": "trop curieuse",
-        "D": "trop prudente"
+        "A": "Fonces sans trop hésiter",
+        "B": "Cherches une solution intelligente",
+        "C": "Demandes de l'aide et écoutes les autres",
+        "D": "Persévères jusqu'à y arriver, même si c'est long"
       }
     },
     {
       "id": "q4",
-      "texte": "Un samedi parfait, c’est plutôt…",
+      "texte": "Un nouvel élève arrive dans ta classe",
       "choix": {
-        "A": "une aventure dehors",
-        "B": "un moment avec tes proches",
-        "C": "un truc à découvrir/apprendre",
-        "D": "du calme et du temps pour toi"
+        "A": "Tu vas lui parler sans hésiter",
+        "B": "Tu observes sans agir",
+        "C": "Tu l'invites à rejoindre ton groupe",
+        "D": "Tu l'aides à comprendre les règles"
       }
     },
     {
       "id": "q5",
-      "texte": "Si on te critique, tu…",
+      "texte": "Tes amis diraient que tu es surtout...",
       "choix": {
-        "A": "réponds du tac au tac",
-        "B": "essaies d’arrondir les angles",
-        "C": "demandes des détails",
-        "D": "prends du recul"
+        "A": "Courageux(se)",
+        "B": "Gentil(le) et attentionné(e)",
+        "C": "Original(e), différent(e)",
+        "D": "Fort(e) de caractère"
       }
     },
     {
       "id": "q6",
-      "texte": "En mission, tu préfères…",
+      "texte": "À la maison, on te demande de garder un secret important",
       "choix": {
-        "A": "agir vite",
-        "B": "coordonner l’équipe",
-        "C": "enquêter",
-        "D": "anticiper les risques"
+        "A": "Tu te sens fier(e) qu'on te fasse confiance",
+        "B": "Tu réfléchis bien avant de promettre",
+        "C": "Tu fais attention aux émotions de chacun",
+        "D": "Tu fais tout pour respecter ta promesse"
       }
     },
     {
       "id": "q7",
-      "texte": "Ton super-pouvoir idéal…",
+      "texte": "Au collège, tu préfères...",
       "choix": {
-        "A": "super force",
-        "B": "soin / protection",
-        "C": "télépathie",
-        "D": "ralentir le temps"
+        "A": "Les défis et les projets créatifs",
+        "B": "Les cours et les leçons où il faut réfléchir et comprendre",
+        "C": "Travailler en groupe",
+        "D": "Les activités où tu peux te dépasser"
       }
     },
     {
       "id": "q8",
-      "texte": "Au fond, ce qui te motive le plus…",
+      "texte": "Tu rates quelque chose d'important (contrôle, match, audition...)",
       "choix": {
-        "A": "le défi",
-        "B": "les liens",
-        "C": "la découverte",
-        "D": "la maîtrise"
+        "A": "Tu te motives pour faire mieux la prochaine fois",
+        "B": "Tu analyses ce qui n'a pas marché",
+        "C": "Tu en parles à quelqu'un de confiance",
+        "D": "Tu refuses d'abandonner et tu continues à t'entrainer"
+      }
+    },
+    {
+      "id": "q9",
+      "texte": "Ton monde idéal serait",
+      "choix": {
+        "A": "Rempli d'aventures",
+        "B": "Calme et harmonieux",
+        "C": "Plein d'amis et de rires",
+        "D": "Juste et équilibré"
       }
     }
   ]

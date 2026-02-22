@@ -144,18 +144,12 @@ function renderResult() {
 
   elApp.innerHTML = `
     <div class="result">
-      <h2>Famille ${major} — ${fam.qualite}</h2>
+      <h2 style="margin: 14px 0 6px;">Tu es ${perso.nom}</h2>
+      <h3>${fam.qualite}</h3>
       <p>${fam.texte}</p>
-
-      <h3 style="margin: 14px 0 6px;">${perso.nom}</h3>
+      <p class="txt-gv">N'oublie pas, tu peux te reconnaître dans plusieurs héroïnes et c'est ça qui te rend unique!</p>      
       <img src="${perso.photo}" alt="${perso.nom}"/>
 
-      <p class="meta d-none" style="margin-top:10px;">
-        Score • A=${counts.A} • B=${counts.B} • C=${counts.C} • D=${counts.D}
-      </p>
-      <p class="meta">
-        Départage (si égalité) : on prend la lettre ex-aequo la plus récente dans tes réponses.
-      </p>
     </div>
   `;
 
@@ -197,8 +191,8 @@ async function init() {
 
   // mini validation
   if (!DATA?.families) throw new Error("data.json invalide : families manquant");
-  if (!Array.isArray(QUESTIONS) || QUESTIONS.length !== 8) {
-    throw new Error("questions.json invalide : il faut un tableau questions de longueur 8");
+  if (!Array.isArray(QUESTIONS) || QUESTIONS.length !== 9) {
+    throw new Error("questions.json invalide : il faut un tableau questions de longueur 9");
   }
 
   resetState();

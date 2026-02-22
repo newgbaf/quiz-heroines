@@ -215,7 +215,7 @@ h2{
 
 .result img{
   width: 100%;
-  max-height: 380px;
+  /*max-height: 380px;*/
   object-fit: cover;
   border-radius: 16px;
   border: 1px solid rgba(123, 97, 255, .18);

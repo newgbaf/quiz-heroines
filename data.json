@@ -1,43 +1,43 @@
 {
   "families": {
     "A": {
-      "qualite": "Audacieuse",
-      "texte": "Tu fonces, tu oses, tu prends des initiatives.",
+      "qualite": "Audacieux(se), Spontané(e) et Courageux(se)",
+      "texte": "Tu n'as pas peur d'agir et d'explorer.",
       "personnages": [
-        { "nom": "Héroïne A1", "photo": "img/a1.jpg" },
-        { "nom": "Héroïne A2", "photo": "img/a2.jpg" },
-        { "nom": "Héroïne A3", "photo": "img/a3.jpg" },
-        { "nom": "Héroïne A4", "photo": "img/a4.jpg" }
+        { "nom": "Princesse Leïa dans Star Wars", "photo": "img/a1.jpg" },
+        { "nom": "Mérida dans Rebelle", "photo": "img/a2.jpg" },
+        { "nom": "Arya Stark dans Game of Thrones", "photo": "img/a3.jpg" },
+        { "nom": "Sailor Moon", "photo": "img/a4.jpg" }
       ]
     },
     "B": {
-      "qualite": "Loyale",
-      "texte": "Tu soutiens, tu protèges, tu es fiable et constante.",
+      "qualite": "Réfléchi(e), Intelligent(e) et Observateur(trice)",
+      "texte": "Tu préfères comprendre avant d'agir.",
       "personnages": [
-        { "nom": "Héroïne B1", "photo": "img/b1.jpg" },
-        { "nom": "Héroïne B2", "photo": "img/b2.jpg" },
-        { "nom": "Héroïne B3", "photo": "img/b3.jpg" },
-        { "nom": "Héroïne B4", "photo": "img/b4.jpg" }
+        { "nom": "Hermione Granger dans Harry Potter", "photo": "img/b1.jpg" },
+        { "nom": "Enola Holmes", "photo": "img/b2.jpg" },
+        { "nom": "Galadriel dans Le Seigneur des Anneaux", "photo": "img/b3.jpg" },
+        { "nom": "Pocahontas", "photo": "img/b4.jpg" }
       ]
     },
     "C": {
-      "qualite": "Curieuse",
-      "texte": "Tu explores, tu questionnes, tu veux comprendre.",
+      "qualite": "Empathique, Sociable et attentionné(e)",
+      "texte": "Les autres se sentent bien avec toi.",
       "personnages": [
-        { "nom": "Héroïne C1", "photo": "img/c1.jpg" },
-        { "nom": "Héroïne C2", "photo": "img/c2.jpg" },
-        { "nom": "Héroïne C3", "photo": "img/c3.jpg" },
-        { "nom": "Héroïne C4", "photo": "img/c4.jpg" }
+        { "nom": "Joie dans Vice-Versa", "photo": "img/c1.jpg" },
+        { "nom": "Lilo dans Lilo et Stitch", "photo": "img/c2.jpg" },
+        { "nom": "Mirabel dans Encanto", "photo": "img/c3.jpg" },
+        { "nom": "Ariel dans La Petite Sirène", "photo": "img/c4.jpg" }
       ]
     },
     "D": {
-      "qualite": "Sage",
-      "texte": "Tu observes, tu analyses, tu fais des choix posés.",
+      "qualite": "Fort(e), Persévérant(e) et Responsable",
+      "texte": "Même quand c'est difficile, tu n'abandonnes pas.",
       "personnages": [
-        { "nom": "Héroïne D1", "photo": "img/d1.jpg" },
-        { "nom": "Héroïne D2", "photo": "img/d2.jpg" },
-        { "nom": "Héroïne D3", "photo": "img/d3.jpg" },
-        { "nom": "Héroïne D4", "photo": "img/d4.jpg" }
+        { "nom": "Katniss Everdeen dans Hunger Games", "photo": "img/d1.jpg" },
+        { "nom": "Mulan", "photo": "img/d2.jpg" },
+        { "nom": "Max dans Stranger Things", "photo": "img/d3.jpg" },
+        { "nom": "Parvana", "photo": "img/d4.jpg" }
       ]
     }
   }
