@@ -161,10 +161,10 @@ h2{
     rgba(255,255,255,.88);
 }
 
-.choice:active{
+/*.choice:active{
   transform: translateY(0px);
   box-shadow: 0 8px 22px rgba(31,22,54,.10);
-}
+}*/
 
 /* Accessibilité : focus clavier visible */
 .choice:focus-visible{
