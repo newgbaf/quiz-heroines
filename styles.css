@@ -199,13 +199,13 @@ h2{
   color: var(--text);
 }
 
-.btn--ghost:hover:not(:disabled){
+/*.btn--ghost:hover:not(:disabled){
   transform: translateY(-1px);
   box-shadow: 0 10px 24px rgba(31,22,54,.10);
   border-color: rgba(123, 97, 255, .30);
   background:
     linear-gradient(0deg, rgba(167, 139, 250, .12), rgba(255,255,255,.78));
-}
+}*/
 
 /* Résultat */
 .result h3{
