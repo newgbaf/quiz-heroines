@@ -115,7 +115,7 @@ h2{
 }
 
 /* Boutons de proposition : hover harmonieux */
-.choice{
+.choice, .choice:active{
   width: 100%;
   text-align: left;
   padding: 14px 14px;
