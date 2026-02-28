@@ -167,11 +167,11 @@ h2{
 }*/
 
 /* Accessibilité : focus clavier visible */
-.choice:focus-visible{
+/*.choice:focus-visible{
   outline: 3px solid rgba(123, 97, 255, .35);
   outline-offset: 2px;
 }
-
+*/
 /* Footer actions */
 .footerActions{
   display: flex;
