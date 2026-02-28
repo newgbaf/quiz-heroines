@@ -148,18 +148,16 @@ h2{
 }
 
 
-.choice:hover{
+/*.choice:hover{
   transform: translateY(-2px);
    box-shadow:
     0 14px 40px rgba(31,22,54,.14),
     0 0 0 6px rgba(123,97,255,.10);
   border-color: rgba(123, 97, 255, .35);
-
-  /* Petit “wash” violet très léger */
   background:
     linear-gradient(0deg, rgba(123, 97, 255, .10), rgba(123, 97, 255, .06)),
     rgba(255,255,255,.88);
-}
+}*/
 
 /*.choice:active{
   transform: translateY(0px);
